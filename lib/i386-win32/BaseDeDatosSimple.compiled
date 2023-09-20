@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1449428771"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\Tomy\Downloads\Base+de+datos+simple\lib\i386-win32 -FuC:\Users\Tomy\Downloads\Base+de+datos+simple\ -FUC:\Users\Tomy\Downloads\Base+de+datos+simple\lib\i386-win32\ -FEC:\Users\Tomy\Downloads\Base+de+datos+simple\ -oC:\Users\Tomy\Downloads\Base+de+datos+simple\BaseDeDatosSimple.exe BaseDeDatosSimple.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

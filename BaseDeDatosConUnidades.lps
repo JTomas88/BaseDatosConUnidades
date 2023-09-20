@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="BaseDeDatosConUnidades.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="35" Y="3"/>
+        <UsageCount Value="68"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ucomando.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UComando"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="219"/>
+        <CursorPos X="29" Y="249"/>
+        <UsageCount Value="68"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="funciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="66"/>
+        <CursorPos X="2" Y="81"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="funciones.pas"/>
+        <Caret Line="9" Column="23"/>
+      </Position1>
+      <Position2>
+        <Filename Value="BaseDeDatosConUnidades.lpr"/>
+        <Caret Line="3" Column="35"/>
+      </Position2>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode="default"/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="registroPersona"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>

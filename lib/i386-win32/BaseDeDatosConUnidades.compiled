@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1449428771"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq &quot;-FiC:\Users\Tomy\Desktop\Programación Tomy\PROYECTOS TERMINADOS\Base de datos con comandos\BaseDatosConUnidades\lib\i386-win32&quot; &quot;-FuC:\Users\Tomy\Desktop\Programación Tomy\PROYECTOS TERMINADOS\Base de datos con comandos\BaseDatosConUnidades\&quot; &quot;-FUC:\Users\Tomy\Desktop\Programación Tomy\PROYECTOS TERMINADOS\Base de datos con comandos\BaseDatosConUnidades\lib\i386-win32\&quot; &quot;-FEC:\Users\Tomy\Desktop\Programación Tomy\PROYECTOS TERMINADOS\Base de datos con comandos\BaseDatosConUnidades\&quot; &quot;-oC:\Users\Tomy\Desktop\Programación Tomy\PROYECTOS TERMINADOS\Base de datos con comandos\BaseDatosConUnidades\BaseDeDatosConUnidades.exe&quot; BaseDeDatosConUnidades.lpr"/>
+</CONFIG>
