@@ -3,8 +3,6 @@ unit funciones;
 
 
 interface
-
-
   uses
   Classes, SysUtils, UComando;
 

@@ -79,11 +79,6 @@ interface
 
 
 
-  {--------------------------------FORDWARS-------------------------------------}
-  //function modificarRegistro (documentoLeido:string; personaAmodificar:TRegistroPersona; var baseDatos: TBaseDeDatos):boolean ; forward;
-
-
-
 
     {Recibe un comando c de tipo TComando y retorna su equivalente en
     TComandoSistema. Esta operación simplemente verifica que el nombre
